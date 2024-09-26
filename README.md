@@ -5,3 +5,8 @@ How To Create A Navigation Bar Using HTML and CSS.
     View and Check it to find bug on it and inform me in the comments below.
      And also write your name.
       README.md by : Sujay Mukherjee...
+
+      
+     The function is styling the preloader on the div in the body as none - a black screen. I can make separate JavaScript file 
+
+     LaQuisha Cain
